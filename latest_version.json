@@ -1,0 +1,12 @@
+{
+    "version": "1.3.0",
+    "notes": "Testing  \nAnother line\nEvem more lines\n- list?\n- list list?",
+    "pub_date": "2023-11-18T19:21:59Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReGtTUFBGM0lSYWQwV3VkWU5Wb2VzTEQxQkVvM0hLVFJPQkJmWHlWc2pDOExSeTdGMjdPMGw2d204bjJzdXc1eStHVExpZm44akJZU0I4TTBWbFd6bkFob0t0aHloMVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAwMzM5NzM0CWZpbGU6UmVzaXplIFJhY2Nvb25fMS4zLjBfeDY0X2VuLVVTLm1zaQpFUGFwV01hNVBvb0p6TnhjZXArNUE0VytQdTkvMDUxbUpoR0dWbk1DNTE1RjN0RUR4VENRVmZlSUI1S2djbG9jUFB3a3o1ZmNtSVEwNlFCclhlbGpCQT09Cg==",
+            "url": "https://github.com/mistenkt/test/releases/download/v1.3.0/Resize.Raccoon_1.3.0_x64_en-US.msi"
+        }
+    }
+
+}
